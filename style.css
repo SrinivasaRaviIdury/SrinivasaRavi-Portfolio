@@ -32,10 +32,6 @@ hr {
   margin: 2rem 0;
 }
 
-h1 {
-  text-transform: capitalize;
-}
-
 main {
   width: 85%;
   margin: auto;
@@ -213,6 +209,7 @@ small {
 .blog p {
   text-align: center;
   padding: 1rem;
+  max-width: 32rem;
 }
 
 .blog.dark {
